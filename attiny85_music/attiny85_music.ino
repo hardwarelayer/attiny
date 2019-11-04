@@ -1,5 +1,5 @@
 /*
- * By tientn:
+ * By tientn: based on technoblogy's TinyTone
  * Pin3 connect to a button with GND line
  * Pin1 connect to Piezo Buzzer
  */
